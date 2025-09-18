@@ -1,0 +1,315 @@
+,Location,Country,Date,1oHazard,2oHazard,Dead,Party,Sport
+0,Hohe Warte,Austria,2018-03-24,Persistent weak layer,,1,10,Backcountry skiing
+1,Hinterbergkofel,Austria,2018-03-18,Persistent weak layer,Wind slab,1,16,Backcountry skiing
+2,Hochkarspitze,Austria,2018-02-21,Persistent weak layer,,1,3,Backcountry skiing
+3,Kals - Matreier Törl,Austria,2018-01-05,Wind slab,Persistent weak layer,2,2,Off-piste skiing
+4,Velilltal,Austria,2018-01-04,Wind slab,New snow,1,3,Off-piste skiing
+5,Pezid,Austria,2017-12-13,Wind slab,Persistent weak layer,1,3,Off-piste skiing
+6,Geigelstein,Germany,2018-01-21,,,1,2,Backcountry skiing
+7,Kehlstein,Germany,2017-11-19,,,1,1,Backcountry skiing
+8,Gran Sasso  - Pizzo Cefalone,Italy,2017-12-22,Wind slab,Wind slab,1,2,Other
+9,Malga San Valentino,Italy,2018-01-03,None,None,2,2,
+10,Val gardena - val ciavel,Italy,2018-01-10,Wind slab,Wind slab,1,1,Mountaineering/Climbing
+11,Campo felice/Anfiteatro,Italy,2018-02-04,Wind slab,Wind slab,2,3,Off-piste skiing
+12,Valle Angrogna-Punta piattina,Italy,2018-02-12,Wind slab,Wind slab,1,1,Off-piste skiing
+13,val d\\\'angrogna-/punta piattina,Italy,2018-02-08,Wind slab,Wind slab,1,1,Off-piste skiing
+14,Valle Gesso-Cayre dell\\\' Agnel,Italy,2018-02-08,Wind slab,Wind slab,1,1,Off-piste skiing
+15,Monte grignetta,Italy,2018-02-16,Wind slab,Wind slab,2,3,Mountaineering/Climbing
+16,S.Domenico di Varzo,Italy,2018-03-07,Wind slab,Wind slab,1,1,Off-piste skiing
+17,Vallone dell\\\' Otro,Italy,2018-03-07,Wind slab,Wind slab,1,0,Off-piste skiing
+18,Val Badia,Italy,2018-03-12,Wind slab,Wind slab,1,1,Off-piste skiing
+19,Forcola,Italy,2018-03-19,New snow,New snow,1,1,Off-piste skiing
+20,Alpi Retiche-Gran Zebrù,Italy,2018-03-22,Wind slab,Wind slab,3,3,Off-piste skiing
+21,Piz Galin,Italy,2018-03-24,Wind slab,Wind slab,1,1,Mountaineering/Climbing
+22,Alpi Graie-Gran Paradiso-Colle Chamolè,Italy,2018-04-06,Wet snow,Wet snow,2,4,Off-piste skiing
+23,Pila-Col Chamolè,Italy,2018-04-07,Wet snow,Wet snow,2,6,Off-piste skiing
+24,Bienno-Lavena,Italy,2018-04-13,Wet snow,Wind slab,1,1,Other
+25,Val Lavenna-Passo Crocedomini,Italy,2018-04-15,New snow,Wet snow,1,1,Off-piste skiing
+26,,Switzerland,2018-07-01,,,1,0,Controlled
+27,,Switzerland,2018-07-01,,,26,0,Uncontrolled
+28,Val d\\\'Aran,Spain,2018-03-22,Wind slab,,2,3,Backcountry skiing
+29,Formigal,Spain,2018-02-28,,,1,0,Off-piste skiing
+30,Gran Sasso / Pizzo Cefalone,Italy,2017-12-22,,,1,1,Other
+31,Malga San Valentino,Italy,2018-01-03,,,2,2,Off-piste skiing
+32,Val Gardena Zona Val  di Ciavei,Italy,2018-01-24,,,1,1,Mountaineering/Climbing
+33,Val d Angrogna / Punta Piattina,Italy,2018-02-13,,,1,1,Off-piste skiing
+34,Campo Felice / Anfiteatro,Italy,2018-02-04,,,2,3,Off-piste skiing
+35,Valle Gesso  /  Cayre dell\\\'Agnel,Italy,2018-02-15,,,1,1,Off-piste skiing
+36,Monte Grignetta,,2018-02-16,,,2,3,Mountaineering/Climbing
+37,Alpi Graie /  Loc. Pian Benot,Italy,2018-03-04,,,1,1,Off-piste skiing
+38,Val Badia,Italy,2018-03-14,,,1,1,On skiruns
+39,Forcola,Italy,2018-03-19,,,1,1,On skiruns
+40,Alpi Retiche / Gran Zebrù,Italy,2018-03-22,,,3,3,Off-piste skiing
+41,Piz Galin,Italy,2018-03-24,,,1,1,Off-piste skiing
+42,Alpi Graie / Alpi del Gran Paradiso / Colle di ChamolÃ¨,Italy,2018-04-06,,,2,4,Off-piste skiing
+43,Val Lavenna / Passo  Crocedomini,Italy,2018-04-15,,,1,1,Off-piste skiing
+44,,France,2018-07-01,,,37,0,Other
+45,Vergaldatal - Kengel,Austria,2017-11-16,Gliding snow,,1,1,Travelling on road
+46,,Slovakia,2018-07-01,,,5,0,Uncontrolled
+47,Alpi Piemontesi/S.Domenico di Varzo,Italy,2018-03-04,Wind slab,Wind slab,1,1,Off-piste skiing
+48,Călimani Mt,Romania,2017-12-01,,,1,3,Other
+49,Parâng Mt.,Romania,2017-12-01,,,1,3,Other
+50,"Vrancei Mt, Cheile Tișiței",Romania,2018-03-03,,,1,30,Travelling on road
+51,"Făgăraș Mt, Sâmbăta Valley",Romania,2018-04-01,,,3,3,Other
+52,"Coștilei Valley, Bucegi Mt.",Romania,2018-01-13,Wind slab,New snow,1,5,Other
+53,Kildalen,Norway,2018-03-29,Persistent weak layer,New snow,1,1,Snowmobiling
+54,Sydalsfjellet,Norway,2018-04-01,New snow,Persistent weak layer,1,2,Backcountry skiing
+55,Russelvfjellet,Norway,2018-04-12,Wind slab,Wet snow,1,5,Backcountry skiing
+56,Baser Negre,Andorra,2018-03-01,Wind slab,Wet snow,1,2,Off-piste skiing
+57,Mrzla gora,Slovenia,2018-03-25,,,1,2,Mountaineering/Climbing
+58,,Norway,2018-07-01,,,3,0,Uncontrolled
+59,Gamsspitzl Obertauern,,2017-12-29,Wind slab,,1,3,Off-piste skiing
+60,Eisarena Anlauftal,Austria,2017-12-10,,,1,2,Mountaineering/Climbing
+61,Hohes Brett,Austria,2018-03-24,,,1,1,Backcountry skiing
+62,Zwölferkogel,Austria,2019-02-23,Wind slab,,1,2,Mountaineering/Climbing
+63,Laserztörl,Austria,2019-01-19,Persistent weak layer,Wind slab,1,2,Backcountry skiing
+64,Steißbachtal - Grube,Austria,2019-01-09,New snow,None,1,4,Off-piste skiing
+65,Hohe Mut,Austria,2018-12-25,Persistent weak layer,,1,2,Off-piste skiing
+66,Hintertuxer Gletscher,Austria,2018-12-13,Wind slab,,1,4,Off-piste skiing
+67,Ochsenälpeleskopf,Germany,2019-02-23,Gliding snow,,2,5,Backcountry skiing
+68,Teisenberg,Germany,2019-01-05,New snow,,1,6,Backcountry skiing
+69,,Switzerland,2019-07-01,,,2,0,Controlled
+70,,Switzerland,2019-07-01,,,19,0,Uncontrolled
+71,Val d\\\'Aran,Spain,2019-01-26,Wind slab,Persistent weak layer,1,0,Off-piste skiing
+72,,France,2019-07-01,,,13,0,Other
+73,,Slovakia,2019-07-01,,,4,0,Uncontrolled
+74,Mallnitz - Krumpe Tal,Austria,2019-01-15,Wind slab,,1,2,Mountaineering/Climbing
+75,Călimani Mt,Romania,2019-02-03,Wet snow,,1,3,Snowmobiling
+76,"Bucegi Mt, Morarului Valley",Romania,2018-12-09,Wind slab,,2,2,
+77,Blåbærfjellet,Norway,2019-01-02,Wind slab,Persistent weak layer,4,4,Backcountry skiing
+78,Signesdalsfjellet,Norway,2019-02-04,,,1,4,Snowmobiling
+79,Brunstadhornet,Norway,2019-03-09,New snow,,1,2,Backcountry skiing
+80,Storfjellet,Norway,2019-03-10,Wind slab,,1,2,Backcountry skiing
+81,Dumålstinden,Norway,2019-03-26,Wind slab,Persistent weak layer,2,2,Travelling on road
+82,Reingjerdfjellet,Norway,2019-04-01,Wind slab,Persistent weak layer,1,4,Snowmobiling
+83,1237,Norway,2019-04-09,New snow,Wet snow,1,3,Backcountry skiing
+84,Kamkrona,Norway,2019-05-17,,,2,2,Backcountry skiing
+85,"Rax, Ottohaus, Törlweg",Austria,2019-03-23,Wet snow,,1,2,Hiking on foot or snowshoeing
+86,Allas,Austria,2019-02-03,Wind slab,New snow,1,2,Other
+87,Großer Schober,Austria,2019-01-27,Wind slab,,1,1,Backcountry skiing
+88,"Rüfikopf - Variante \""Wasserschloss\"" Richtung Wöstertäli",Austria,2019-01-12,Wind slab,Gliding snow,4,4,Off-piste skiing
+89,Damüls - freier Schiraum westl. Hinterargenalpe,Austria,2019-01-06,Wind slab,,1,2,Off-piste skiing
+90,Schoppernau: Diedamskopf - freier Schiraum,Austria,2019-01-06,New snow,,1,2,Off-piste skiing
+91,"Lahngang, Abtenau",Austria,2019-01-05,Wind slab,,2,2,Hiking on foot or snowshoeing
+92,Stadelberg/Gschwendhütte/Steinparztal,Austria,2019-01-05,,,2,2,
+93,Oberlercherspitze,Austria,2019-05-07,Persistent weak layer,,1,1,Backcountry skiing
+94,Colle Pillont,Italy,2018-12-08,Wind slab,Wind slab,1,1,Backcountry skiing
+95,Monte Spico,Italy,2019-01-19,Wind slab,Wind slab,1,6,Backcountry skiing
+96,Canale dello spagnolo,Italy,2019-02-03,Wind slab,Wind slab,4,4,Backcountry skiing
+97,Croda Rossa di Sesto,Italy,2019-02-03,New snow,New snow,1,1,On skiruns
+98,Punta Ollietta,Italy,2019-02-03,Wind slab,Wind slab,1,3,Off-piste skiing
+99,Livigno,Italy,2019-02-03,New snow,New snow,1,1,On skiruns
+100,Monte Coglians,Italy,2019-02-05,Wind slab,Wind slab,1,1,Backcountry skiing
+101,Alpi Cozie / Gruppo Queyron Albergian Sestriere / Monte Morefreddo / Loc. Bric del cucù,Italy,2019-02-05,New snow,New snow,1,0,Backcountry skiing
+102,Dolomiti / Gruppo del Puez,Italy,2019-01-19,Wind slab,Wind slab,1,1,Backcountry skiing
+103,Pista Lazaum / Maso Corto,Italy,2019-03-16,Wind slab,Wind slab,1,0,Mountaineering/Climbing
+104,Prealpi vicentine / Massiccio del Pasubio / Monte del Pasubio,Italy,2019-04-21,New snow,New snow,1,1,Hiking on foot or snowshoeing
+105,Alpi retiche Meridionali / Gruppo Ortles Cevedale / Punta San Matteo,Italy,2019-06-15,Wet snow,Wet snow,1,3,Mountaineering/Climbing
+106,Schober Lahngang,Austria,2019-01-05,New snow,,2,2,Hiking on foot or snowshoeing
+107,Rettenbachferner,Austria,2019-11-09,Persistent weak layer,Wind slab,2,3,Off-piste skiing
+108,Gamskarspitze,Austria,2019-12-31,Persistent weak layer,,1,4,Mountaineering/Climbing
+109,Murkarspitze,Austria,2020-02-09,Persistent weak layer,,1,8,Backcountry skiing
+110,Fridtjofbreen,Norway,2020-02-20,Wind slab,Persistent weak layer,2,7,Snowmobiling
+111,"Engelberg, Laub",Switzerland,2019-12-15,Wind slab,Persistent weak layer,1,2,Off-piste skiing
+112,Piz Nair,Switzerland,2019-12-26,Wind slab,,1,4,Off-piste skiing
+113,"Lauchernalp, Stieltihorn",Switzerland,2019-12-28,New snow,,1,2,Backcountry skiing
+114,Rossbodenpass,Switzerland,2020-02-13,Wind slab,,2,6,Backcountry skiing
+115,"Školský žlab, Chopok",Slovakia,2019-12-14,Wind slab,,1,2,Off-piste skiing
+116,Aonach Mor nr Ben Nevis,United Kingdom,2020-02-28,Wind slab,,1,2,Mountaineering/Climbing
+117,Cap de Vaquèira,Spain,2020-03-03,Wind slab,New snow,1,4,Off-piste skiing
+118,Punta Helbronner,Italy,2019-11-30,Wind slab,Wind slab,2,2,Off-piste skiing
+119,Strahleggpass,Switzerland,2020-05-07,,,1,2,Backcountry skiing
+120,Tofana di Rozes - rifugio Giussani,Italy,2020-05-09,Wet snow,Wet snow,1,2,Off-piste skiing
+121,Val Sesia - Passo della Civera,Italy,2019-12-15,Wind slab,Wind slab,1,4,Off-piste skiing
+122,Alpe di Siusi - Hundskopf,Italy,2019-12-15,Wind slab,Wind slab,1,4,Other
+123,punta Fontana fredda- Valtournanche- Cheneil,Italy,2019-12-15,Wind slab,Wind slab,1,1,Off-piste skiing
+124,Solda-Schotnaufpiste,Italy,2019-12-24,Wind slab,Wind slab,1,1,Off-piste skiing
+125,Senales,Italy,2019-12-28,Wind slab,Wind slab,3,6,Off-piste skiing
+126,dolomiti di brenta vedretta superiore-scivolo ovest (vallone Massari),Italy,2019-12-29,Gliding snow,Wind slab,1,2,Mountaineering/Climbing
+127,Pizzo del Diavolo/Canalone della Malgina,Italy,2020-05-12,Wet snow,New snow,1,1,Off-piste skiing
+128,Mosgardshnjukar,Iceland,2020-01-29,Wind slab,,1,3,Backcountry skiing
+129,Lammereis - Kleinglocknerkees,Austria,2020-03-08,Wind slab,,1,1,Mountaineering/Climbing
+130,Hallstatt,Austria,2020-03-08,Wind slab,,5,5,Other
+131,"Göller, Eisgrube",Austria,2020-03-07,Wind slab,,1,1,Off-piste skiing
+132,"Hoher Ifen, Ifenmulde, Kleinwalsertal",Austria,2019-12-15,Wind slab,,1,2,Backcountry skiing
+133,Mont Brûlé,Switzerland,2020-05-08,,,1,0,
+134,Gråfonnfjellet,Norway,2020-05-24,Wet snow,Gliding snow,1,3,Backcountry skiing
+135,Vars,France,2019-12-14,Wind slab,New snow,1,3,Off-piste skiing
+136,Revel.,France,2020-01-02,Wind slab,,2,2,Backcountry skiing
+137,Les Houches,France,2020-01-29,New snow,Wind slab,1,6,Off-piste skiing
+138,La toussuire,France,2020-01-30,Wind slab,Wet snow,2,3,Off-piste skiing
+139,Vallorcine,France,2020-03-01,Wind slab,,1,3,Off-piste skiing
+140,La Plagne,France,2020-03-06,Wet snow,New snow,1,3,Off-piste skiing
+141,Barèges,France,2020-03-15,Wet snow,,2,7,Backcountry skiing
+142,Valmeinier,France,2020-01-24,Wind slab,Persistent weak layer,1,6,Backcountry skiing
+143,Valle di Champorcher - sotto linea impianto Cimetta Rossa,Italy,2019-11-24,Wet snow,Wet snow,1,1,Off-piste skiing
+144,Șerbota,Romania,2020-03-06,New snow,,1,11,Backcountry skiing
+145,Lammereis - Kleinglocknerkees,Austria,2020-03-08,Wind slab,,1,0,Mountaineering/Climbing
+146,"Chamonix, couloir Gervasutti",France,2020-05-31,,,1,2,Backcountry skiing
+147,Großvenediger,Austria,2020-10-10,Persistent weak layer,,1,1,Mountaineering/Climbing
+148,Titlis,Switzerland,2020-12-07,,,1,0,
+149,Crans Montana,Switzerland,2020-12-08,,,1,0,
+150,Saas Fee,Switzerland,2020-12-10,,,1,0,
+151,Bedretto,Switzerland,2020-12-13,,,1,0,
+152,Eggenmanndli,Switzerland,2020-12-17,,,1,0,
+153,Stuben-Albonagrat \\,Austria,2020-12-14,Persistent weak layer,Wind slab,1,1,Backcountry skiing
+154,Tromsdalstinden,Norway,2020-12-06,Wind slab,,1,1,Hiking on foot or snowshoeing
+155,Maso corto/Val Senales,Italy,2021-01-03,Wind slab,New snow,2,2,Off-piste skiing
+156,"Chasseral, La Corne",Switzerland,2020-12-31,,,1,0,
+157,Les Louerettes,Switzerland,2020-12-29,,,1,0,
+158,Val Travenanzes gruppo tofane,Italy,2021-01-09,Persistent weak layer,Wind slab,1,3,Off-piste skiing
+159,Costa del Palio,Italy,2021-01-13,Wind slab,Wind slab,1,2,Off-piste skiing
+160,Torrione Roma,Italy,2021-01-14,Wind slab,Wind slab,1,1,Off-piste skiing
+161,Devero-Valle Antigorio,Italy,2021-01-16,Wind slab,Wind slab,2,2,Off-piste skiing
+162,Emmetten,Switzerland,2021-01-15,,,1,0,
+163,Klosters-Serneus,Switzerland,2021-01-16,,,1,0,
+164,Engelberg,Switzerland,2021-01-16,,,1,0,
+165,Morschach,Switzerland,2021-01-16,,,1,0,
+166,Veytaux,Switzerland,2021-01-17,,,1,0,
+167,Gstaad,Switzerland,2021-01-17,,,1,0,
+168,Val de Bagnes,Switzerland,2021-01-18,,,1,0,
+169,Nendaz,Switzerland,2021-01-18,,,1,0,
+170,Sandkogel,Austria,2021-01-15,Wind slab,,1,2,Backcountry skiing
+171,San Isidro,Spain,2021-01-01,,,2,3,Travelling on road
+172,"Jeseníky, Velký Kotel",Czechia,2021-01-15,Wind slab,Persistent weak layer,1,3,Backcountry skiing
+173,malga boschetto - Val Camonica- Mortirolo,Italy,2021-01-24,Wind slab,Wind slab,1,5,Snowmobiling
+174,Wanglspitze,Austria,2021-01-20,Persistent weak layer,Wind slab,1,2,Off-piste skiing
+175,Le Monêtier les bains,France,2020-12-22,Persistent weak layer,Wet snow,1,5,Backcountry skiing
+176,St Bon Tarentaise,France,2021-01-13,,,1,1,Backcountry skiing
+177,Tignes,France,2021-01-16,Wind slab,Persistent weak layer,1,4,Backcountry skiing
+178,Stosswihr,France,2021-01-17,,,1,2,Backcountry skiing
+179,Saint Christophe en Oisans,France,2021-01-17,Persistent weak layer,Wind slab,2,2,Backcountry skiing
+180,Farges,France,2021-01-20,,,1,2,Backcountry skiing
+181,Saint-Christophe-sur-Guiers,France,2021-01-20,Wind slab,Persistent weak layer,1,1,Backcountry skiing
+182,Jarsy,France,2021-01-21,,,1,1,Backcountry skiing
+183,Aillons-le-Vieux,France,2021-01-29,New snow,Wind slab,1,2,Backcountry skiing
+184,Bourg-Saint-Maurice,France,2021-01-29,Wind slab,Persistent weak layer,1,3,Backcountry skiing
+185,La Grave,France,2021-01-24,New snow,Wind slab,1,1,Backcountry skiing
+186,Le Freney-d\'Oisans,France,2021-01-26,Wind slab,New snow,1,2,Backcountry skiing
+187,Aussois,France,2021-01-26,Wind slab,Wet snow,1,2,Backcountry skiing
+188,Grust,France,2021-01-26,Wind slab,Wet snow,1,1,Backcountry skiing
+189,Vallone Sautron/ Acceglio (CN),Italy,2021-01-30,New snow,Wind slab,1,10,Off-piste skiing
+190,Passo della Gardetta Acceglio (CN),Italy,2021-01-31,New snow,Wind slab,1,2,Off-piste skiing
+191,Le Monêtier les bains,France,2021-01-31,Wind slab,Persistent weak layer,1,2,Backcountry skiing
+192,Juifenalm,Austria,2021-01-30,Persistent weak layer,Wind slab,2,2,Backcountry skiing
+193,Widdersbergsattel,Austria,2021-01-30,Persistent weak layer,,1,1,Backcountry skiing
+194,Neunerkogel,Austria,2021-01-30,Persistent weak layer,,1,3,Off-piste skiing
+195,Arbeserkogel,Austria,2021-02-01,Persistent weak layer,,1,2,Backcountry skiing
+196,Chateauroux les Alpes,France,2021-02-05,,,1,0,
+197,Mitterkoegerl / Teufenbachtal,Austria,2021-01-30,Wind slab,Persistent weak layer,1,1,Backcountry skiing
+198,Cima del Bosco,Italy,2021-02-08,New snow,Wind slab,2,2,Backcountry skiing
+199,M. Giovo,Italy,2021-02-13,Wind slab,Wind slab,1,3,Off-piste skiing
+200,Sella Nevea,Italy,2021-02-13,Wind slab,Wind slab,1,1,Off-piste skiing
+201,"barmerousse, 74190 Passy",France,2021-02-13,New snow,Wind slab,1,0,Backcountry skiing
+202,Skittentinden,Norway,2021-01-16,Persistent weak layer,,1,1,Backcountry skiing
+203,Vassfjellet,Norway,2021-01-23,,,1,1,On skiruns
+204,Bjørnlitinden,Norway,2021-01-23,Wind slab,,1,2,Mountaineering/Climbing
+205,"Borgdalen, Jan Mayen",Norway,2021-01-30,,,2,3,Backcountry skiing
+206,Kondratova kopa,Slovakia,2021-02-13,Wind slab,,2,3,Backcountry skiing
+207,Lavaldens (38350),France,2021-02-13,New snow,Wind slab,1,1,Backcountry skiing
+208,"Krkonoše, Obří důl, Úpička",Czechia,2021-02-15,Wind slab,Persistent weak layer,1,2,Backcountry skiing
+209,Valle Majelama,Italy,2021-01-24,Wet snow,Wet snow,4,4,Hiking on foot or snowshoeing
+210,Les 2 Alpes - col des Gourses,France,2021-02-21,Wind slab,,1,1,
+211,M. Fregasoga,Italy,2021-02-22,Wet snow,Wet snow,1,3,
+212,Warscheneck,Austria,2021-02-20,Persistent weak layer,Wet snow,1,2,
+213,Nendaz,Switzerland,2021-01-23,,,1,0,
+214,La Fouly VS,Switzerland,2021-01-31,,,1,0,
+215,Celerina,Switzerland,2021-02-04,,,1,0,
+216,Safiental,Switzerland,2021-02-11,,,1,0,
+217,Kistrand rv80,Norway,2021-02-25,Wet snow,Persistent weak layer,1,1,Travelling on road
+218,Aime-La-Plagne (73 210),France,2021-03-19,Persistent weak layer,New snow,1,3,Backcountry skiing
+219,Passo della Manina,Italy,2021-03-22,Wind slab,Wind slab,1,3,Off-piste skiing
+220,Bozel - Dou de Moûtiers,France,2021-03-24,Persistent weak layer,Wet snow,1,2,Backcountry skiing
+221,Pontresina,Switzerland,2021-02-17,,,1,0,
+222,Davos,Switzerland,2021-03-17,,,1,0,
+223,Hérémence,Switzerland,2021-03-20,,,1,0,
+224,Ayent,Switzerland,2021-03-21,,,1,0,
+225,Mont-Noble,Switzerland,2021-03-21,,,1,0,
+226,Anniviers,Switzerland,2021-03-23,,,1,0,
+227,Andermatt,Switzerland,2021-03-23,,,2,0,
+228,Jof Fuart,Italy,2021-04-16,Wind slab,Wind slab,2,3,Off-piste skiing
+229,Val d\'Isère,France,2021-04-20,None,,1,0,Backcountry skiing
+230,La Grande Ruine,France,2021-05-03,Wind slab,New snow,3,3,Mountaineering/Climbing
+231,Ailefroide Occidentale - glacier Long,France,2021-05-03,Wind slab,New snow,2,4,Mountaineering/Climbing
+232,Villaroger (73640),France,2021-05-08,Wet snow,New snow,3,3,Backcountry skiing
+233,Valloire (73450),France,2021-05-08,Wind slab,Wet snow,4,5,Backcountry skiing
+234,Sofiatinden,Norway,2021-05-01,Wind slab,,2,2,Backcountry skiing
+235,Gran Zebrù,Italy,2021-05-19,Wind slab,Wind slab,2,4,Off-piste skiing
+236,Chamonix-Mont-Blanc,France,2021-05-19,New snow,Wind slab,1,0,Backcountry skiing
+237,Chamonix-Mont-Blanc,France,2021-05-19,New snow,Wind slab,1,0,Mountaineering/Climbing
+238,Chamonix-Mont-Blanc,France,2021-05-20,New snow,Wind slab,2,0,Backcountry skiing
+239,Brennerspitze,Austria,2021-03-28,Persistent weak layer,,1,5,Backcountry skiing
+240,Großer Zunig,Austria,2021-04-17,Wind slab,Persistent weak layer,2,2,Backcountry skiing
+241,Col Collon,Italy,2021-05-30,,,1,2,Mountaineering/Climbing
+242,Tödi,Switzerland,2021-05-14,,,2,0,
+243,pointe de Gargan,France,2021-06-03,Wet snow,,1,2,Mountaineering/Climbing
+244,Storžič,Slovenia,2021-02-13,Persistent weak layer,Wind slab,2,2,Mountaineering/Climbing
+245,Storžič,Slovenia,2021-02-13,Persistent weak layer,Wind slab,1,2,Mountaineering/Climbing
+246,Vrenelisgärtli,Switzerland,2020-11-18,,,1,0,
+247,Lac de Mauvoisin,Switzerland,2021-06-13,,,1,0,
+248,Rothorn,Switzerland,2021-03-13,,,1,0,
+249,"Val d\'Ayas, Gran Sommettaz",Italy,2021-11-29,,,1,0,Off-piste skiing
+250,Roques Blanques-Pic de la Dona,Spain,2021-11-28,Wind slab,None,1,1,Mountaineering/Climbing
+251,La Thuille,Italy,2021-12-07,Wind slab,,1,3,Backcountry skiing
+252,Monte Sorbetta,Italy,2021-12-16,Persistent weak layer,,1,2,Backcountry skiing
+253,Zermatt,Switzerland,2021-12-17,,,1,0,
+254,Suchá dolina,Slovakia,2021-12-13,Wind slab,,2,4,Off-piste skiing
+255,secteur du Pic de Corne,France,2022-01-12,Wind slab,New snow,1,2,Backcountry skiing
+256,"Gresovo, Kamenista dolina",Slovakia,2022-01-19,Wind slab,,1,3,Backcountry skiing
+257,Kleiner Ötscher,Austria,2022-01-23,Persistent weak layer,Wind slab,1,6,
+258,Conthey,Switzerland,2022-01-21,,,1,5,Backcountry skiing
+259,"Carosello 3000, Livigno",Italy,2022-02-05,Wind slab,New snow,1,3,Off-piste skiing
+260,Hocheisspitze,Germany,2022-01-25,Persistent weak layer,Wet snow,1,2,Backcountry skiing
+261,Steintalhörnl,Germany,2022-02-05,Wind slab,Gliding snow,1,0,Backcountry skiing
+262,Goms,Switzerland,2022-02-05,,,1,0,
+263,Val Müstair,Switzerland,2022-02-05,,,1,0,
+264,Davos,Switzerland,2022-02-03,,,1,0,
+265,Scuol,Switzerland,2022-02-03,,,1,0,
+266,Saint-Colomban-des-Villards (73130) - Tête de Bellard,France,2022-02-07,New snow,Wind slab,2,0,Off-piste skiing
+267,Maseben-Vilgand,Italy,2022-02-08,Wind slab,Persistent weak layer,1,4,Backcountry skiing
+268,Engelberg,Switzerland,2022-02-07,,,1,0,
+269,Bergün Filisur,Switzerland,2022-02-08,,,1,0,
+270,Sachseln,Switzerland,2022-02-17,,,2,0,
+271,Poland,Poland,2022-01-29,Wind slab,,1,2,Off-piste skiing
+272,Tatra,Poland,2022-01-29,Wind slab,,1,2,Backcountry skiing
+273,Venet,Austria,2021-12-11,Wind slab,None,1,6,Off-piste skiing
+274,Breiteggspitze,Austria,2022-02-04,Persistent weak layer,None,2,2,Backcountry skiing
+275,Fließer Berg,Austria,2022-02-04,Persistent weak layer,None,5,6,Backcountry skiing
+276,Gammerspitze,Austria,2022-02-05,Persistent weak layer,,1,5,Backcountry skiing
+277,Schafseitenspitze,Austria,2022-02-13,Persistent weak layer,None,1,8,Backcountry skiing
+278,Scuol,Switzerland,2022-02-23,,,2,0,
+279,Montvalezan 73700,France,2022-02-23,Wind slab,Wet snow,1,0,Off-piste skiing
+280,"Hotelhang, Wendelstein",Germany,2022-01-22,New snow,Wind slab,1,1,Mountaineering/Climbing
+281,Ötscher,Austria,2022-03-11,Persistent weak layer,,3,4,Backcountry skiing
+282,"Făgăraș Mt, Scara Valley",Romania,2022-03-05,Wind slab,New snow,2,2,Off-piste skiing
+283,Erikaksla,Norway,2022-03-30,Persistent weak layer,New snow,1,5,Backcountry skiing
+284,Lackenspitze,Austria,2021-12-04,Wind slab,Persistent weak layer,3,11,Backcountry skiing
+285,Gavarnie,France,2022-03-10,Wind slab,,1,2,Other
+286,Cap de Vaquèira,Spain,2022-04-04,Wind slab,,1,2,Off-piste skiing
+287,"Beretlia, Lyngen",Norway,2022-04-07,Persistent weak layer,Wind slab,3,9,Backcountry skiing
+288,Saint Christophe en Oisans,France,2022-04-05,Wet snow,Gliding snow,2,2,Backcountry skiing
+289,Acceglio- Monte Vallonasso,Italy,2022-04-09,Wind slab,,1,4,Off-piste skiing
+290,Chamonix-Mont-Blanc(74400),France,2022-04-09,New snow,Wind slab,2,8,Other
+291,Vals,Switzerland,2022-04-15,,,2,0,Backcountry skiing
+292,Ortles - Solda,Italy,2022-04-27,Wind slab,Wind slab,2,2,Mountaineering/Climbing
+293,Grøtdalstindan,Norway,2022-04-06,Wet snow,New snow,1,4,Backcountry skiing
+294,Westliche Karwendelspitze,Germany,2022-04-14,Wet snow,,1,1,Mountaineering/Climbing
+295,Knödelkopf / Klösterle-Stuben,Austria,2022-02-04,Wind slab,Gliding snow,1,4,Backcountry skiing
+296,Skeiðsfjall,Iceland,2022-04-07,Wind slab,None,1,3,Backcountry skiing
+297,"Bradavica, Slavkovská dolina",Slovakia,2022-09-21,,,2,4,Mountaineering/Climbing
+298,Ceillac,France,2022-11-04,Wind slab,,1,2,Mountaineering/Climbing
+299,Champagny-en-Vanoise,France,2022-11-05,New snow,,2,2,Mountaineering/Climbing
+300,Chantonnet,Switzerland,2022-12-11,New snow,Persistent weak layer,1,2,Backcountry skiing
+301,Pass dei Omenit,Switzerland,2022-12-11,Wind slab,Persistent weak layer,1,4,Backcountry skiing
+302,Piz Radönt,Switzerland,2022-12-03,,,1,4,Mountaineering/Climbing
+303,Enchastrayes,France,2022-12-05,New snow,Wind slab,1,2,Backcountry skiing
+304,Le Mônetier-les-Bains,France,2022-12-07,New snow,Persistent weak layer,1,0,Backcountry skiing
+305,Vars,France,2022-12-10,New snow,Persistent weak layer,1,1,Off-piste skiing
+306,Krzyżne (trail) Five lakes valley,Poland,2022-10-07,Wet snow,,1,0,
+307,Przełęcz pod Kopą Kondracką (trail) Kondratowa Valley,Poland,2022-12-10,Wind slab,,1,5,Hiking on foot or snowshoeing
+308,La Léchère,France,2022-12-17,New snow,Persistent weak layer,1,2,Backcountry skiing
+309,Arp - Courmayeur,Italy,2022-12-18,Wind slab,Persistent weak layer,1,2,Off-piste skiing
+310,Arp Vieille - Valgrisence,Italy,2022-12-17,Wind slab,Persistent weak layer,1,2,Backcountry skiing
+311,Rif. Passo S. Niccolò,Italy,2022-12-10,New snow,Wind slab,1,7,Backcountry skiing
+312,"Priečne sedlo, Malá Studená dolina",Slovakia,2022-12-22,Wind slab,,2,2,Hiking on foot or snowshoeing
+313,Lazaunspitze,Italy,2022-12-25,,,1,2,Backcountry skiing
