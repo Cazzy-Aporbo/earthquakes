@@ -34,11 +34,11 @@
 
 </div>
 
-## Why I built this (from me, to you)
+## Why I built this 
 
 I’m obsessed with turning messy, high-volume data into patterns people can actually use. Earthquake catalogs are perfect for this: time, location, magnitude, depth — enough structure to be rigorous, enough chaos to be interesting. My goal here is simple: **make seismic activity readable**. That means honest statistics, interactive maps, and plain-language summaries that non-seismologists can trust.
 
-## What’s inside (high-level)
+## What’s inside
 
 * **Clean ingestion & schema checks** for earthquake catalogs (date windows, mag thresholds, UTC normalization).
 * **Exploratory analysis** of frequency, magnitude, depth, and geography.
@@ -75,7 +75,7 @@ Earthquake_project/
 
 > If your local structure differs, keep the headings and update paths — the README is intentionally adaptable.
 
-## Quickstart (five minutes)
+## Quickstart
 
 ```bash
 # clone and enter the folder containing Earthquake_project/
@@ -98,7 +98,7 @@ In `notebooks/01_ingest_and_clean.ipynb`, set:
 
 All pulls cache to `data/raw/` and standardize to `data/processed/earthquakes.parquet`.
 
-## Methods (short and clear)
+## Methods
 
 * **Cleaning & validation**: deduplicate events, enforce UTC times, coerce types, drop invalid coords, handle missing depths.
 * **Spatiotemporal EDA**: rolling counts, inter-event times, kernel density heatmaps, depth profiles by region.
@@ -112,7 +112,7 @@ All pulls cache to `data/raw/` and standardize to `data/processed/earthquakes.pa
 * **Open 04\_clustering\_sequences.ipynb** to highlight sequences and inspect cluster metrics.
 * **Open 05\_maps\_and\_report.ipynb** to export an interactive Folium map and a short human-readable summary.
 
-## Screens you’ll love (aesthetic, but useful)
+## Screens I love 
 
 * **Interactive Folium map** with popups (time, mag, depth) and subtle pastel markers.
 * **Plotly timelines** you can filter (region, magnitude bins) — clean, readable, and shareable.
@@ -152,7 +152,7 @@ This is **not** an early-warning system and **not** a real-time operational tool
 * Data query manifests saved with parameters (dates, mags) next to outputs.
 * Environments pinned with `environment.yml` or locked `requirements.txt`.
 
-## Roadmap (near-term)
+## Roadmap
 
 * Region presets + plate boundary overlays
 * Sliding-window b-value diagnostics
@@ -161,7 +161,7 @@ This is **not** an early-warning system and **not** a real-time operational tool
 
 ## Attribution & license
 
-* **Code**: MIT (unless otherwise noted).
+* **Code**: MIT
 * **Data**: respect the terms of the source catalog(s). Always cite query windows and parameters in reports.
 
 ---
